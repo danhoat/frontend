@@ -7,5 +7,6 @@
 			$("#modalLogin").fadeIn(1000);
 			$("body").toggleClass('modal-open')
 		});
-	})
+	});
+	
 })(jQuery)
